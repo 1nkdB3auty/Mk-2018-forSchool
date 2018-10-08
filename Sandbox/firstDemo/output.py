@@ -7,7 +7,7 @@ def main():
     totalPay = salary + bonus
 
     # 3. Output
-    print("Your total weekly pay with bonus of {:.2f} is: {:.2f}".format(bonus,totalPay))
+    print("Your total weekly pay is: ${:.2f}!".format(totalPay))
 	
 	
 if __name__ == "__main__":
