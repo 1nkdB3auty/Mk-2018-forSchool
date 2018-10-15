@@ -1,0 +1,7 @@
+1. Start Program
+2. Prompt for the team name and store it in a a variable called teamName
+3. Prompt the user for  the number of games won and store it in a variable called gamesWon
+4. Prompt user for number of games played and store it in a variable called gamesPlayed
+5. Calculate the winng percentage by dividing the gamesWon by totalGames and multiply by 100
+6. Output the winning percentage to the user
+7. Program End
